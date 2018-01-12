@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsyncDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="withAynctask">withAynctask</string>
+    <string name="withthreads">withthreads</string>
+    <string name="selectLengthOfpasswords">selectLengthOfpasswords</string>
+    <string name="NumberOfPasswords">NumberOfPasswords</string>
+</resources>
